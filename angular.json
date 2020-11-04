@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "demod"
+    }
+  },
+  "defaultProject": "demod",
+  "cli": {
+    "analytics": "847f7fa3-9cc3-46c9-be75-d465f4c7999b"
+  }
 }
